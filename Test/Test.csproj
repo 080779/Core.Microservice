@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Polly" Version="6.1.0" />
     <PackageReference Include="RestTemplateCore" Version="1.0.2" />
   </ItemGroup>
 
